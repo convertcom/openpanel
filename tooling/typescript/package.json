@@ -9,6 +9,6 @@
     "tsup.config.json"
   ],
   "devDependencies": {
-    "tsup": "7.3.0"
+    "tsup": "9.0.0"
   }
 }
